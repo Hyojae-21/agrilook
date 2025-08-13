@@ -1,4 +1,4 @@
-// File: C:\Users\junho\OneDrive\문서\4학년 2학기\SKT AI\Agrilook\agrilook\app\layout.tsx
+// File: C:\Users\stepg\Hyojae-21\agrilook\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
