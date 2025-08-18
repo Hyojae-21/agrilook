@@ -1,7 +1,4 @@
 {
-  "/home/page": "app/home/page.js",
-  "/monitoring/page": "app/monitoring/page.js",
   "/dashboard/page": "app/dashboard/page.js",
-  "/chatbot/page": "app/chatbot/page.js",
-  "/mypage/page": "app/mypage/page.js"
+  "/home/page": "app/home/page.js"
 }
