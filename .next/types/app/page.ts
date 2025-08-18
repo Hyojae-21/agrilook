@@ -1,4 +1,4 @@
-// File: C:\Users\stepg\Hyojae-21\agrilook\app\page.tsx
+// File: C:\Users\10\Desktop\front\agrilook\app\page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

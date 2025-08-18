@@ -1,4 +1,4 @@
-// File: C:\Users\stepg\Hyojae-21\agrilook\app\chatbot\page.tsx
+// File: C:\Users\10\Desktop\front\agrilook\app\chatbot\page.tsx
 import * as entry from '../../../../app/chatbot/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
